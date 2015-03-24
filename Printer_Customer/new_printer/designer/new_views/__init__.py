@@ -1,0 +1,1 @@
+print(' succeed of designer')
