@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="第 1 页" id="y5_w8pv39xEHssYioNzL">
-    <mxGraphModel dx="1187" dy="1382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1017" dy="1184" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
         </mxCell>
         <mxCell id="PF_n8xYaVycikQ_lo93W-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="PF_n8xYaVycikQ_lo93W-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="426" y="199" as="targetPoint" />
+            <mxPoint x="441" y="199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PF_n8xYaVycikQ_lo93W-3" value="移动设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
@@ -28,11 +28,11 @@
         </mxCell>
         <mxCell id="PF_n8xYaVycikQ_lo93W-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="PF_n8xYaVycikQ_lo93W-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="539" y="205" as="sourcePoint" />
+            <mxPoint x="521" y="205" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PF_n8xYaVycikQ_lo93W-6" value="wav 录音文件" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;" vertex="1" parent="1">
-          <mxGeometry x="437" y="174" width="90" height="66.18" as="geometry" />
+          <mxGeometry x="454" y="185.91" width="55" height="38.18" as="geometry" />
         </mxCell>
         <mxCell id="PF_n8xYaVycikQ_lo93W-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="PF_n8xYaVycikQ_lo93W-8">
           <mxGeometry relative="1" as="geometry">
@@ -110,10 +110,10 @@
           <mxGeometry x="809" y="448" width="70.78" height="61" as="geometry" />
         </mxCell>
         <mxCell id="PF_n8xYaVycikQ_lo93W-37" value="推理服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="807" y="525" width="82" height="31" as="geometry" />
+          <mxGeometry x="807" y="517" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="PF_n8xYaVycikQ_lo93W-38" value="模型加载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="857" y="395" width="82" height="31" as="geometry" />
+          <mxGeometry x="851" y="395" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="PF_n8xYaVycikQ_lo93W-42" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -136,6 +136,9 @@
           <mxGeometry x="-0.1636" y="1" relative="1" as="geometry">
             <mxPoint x="-20" y="15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PF_n8xYaVycikQ_lo93W-47" value="深度学习模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="899" y="320.3" width="114" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
